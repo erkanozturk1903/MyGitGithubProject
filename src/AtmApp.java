@@ -7,6 +7,7 @@ public class AtmApp {
         System.out.println("Learn Java earn Money");
         //version4
         System.out.println("Git'i öğrenmek çok kolay");
-
+        //version5
+        System.out.println("Java çok zor");
     }
 }
