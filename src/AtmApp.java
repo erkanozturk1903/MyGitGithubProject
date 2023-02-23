@@ -11,5 +11,8 @@ public class AtmApp {
 
         //verison6
         System.out.println("Javayı öğrenmek çok kolay");
+
+        //verison7
+        System.out.println("Kartal Gol Gol");
     }
 }
